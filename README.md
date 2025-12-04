@@ -11,7 +11,7 @@
 
 A Terminal-Themed Personal AI Assistant Powered by Google API
 
-<p align="left"> <img src="https://img.shields.io/badge/terminal-theme-00ff7f?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/powered_by-Google_API-4285F4?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/frontend-HTML%20%7C%20CSS%20%7C%20JS-00ff7f?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/status-alpha-ffaa00?style=for-the-badge&labelColor=000000" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/terminal-theme-a5b4fc?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/powered_by-Google_API-4285F4?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/frontend-HTML%20%7C%20CSS%20%7C%20JS-00ff7f?style=for-the-badge&labelColor=000000" /> <img src="https://img.shields.io/badge/status-alpha-ffaa00?style=for-the-badge&labelColor=000000" /> </p>
 
 ```md
 > Booting Nexus Core...
